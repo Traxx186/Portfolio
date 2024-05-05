@@ -1,0 +1,21 @@
+{
+    "name": "@traxx186/portfolio",
+    "type": "module",
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@fullhuman/postcss-purgecss": "^6.0.0",
+        "autoprefixer": "^10.4.19",
+        "cssnano": "^7.0.1",
+        "postcss": "^8.4.38",
+        "sass": "^1.76.0",
+        "vite": "^5.0",
+        "vite-plugin-symfony": "^6.4"
+    },
+    "dependencies": {
+        "bulma": "^1.0.0"
+    }
+}
